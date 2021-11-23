@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+data
+DIV2K_processed
+DIV2K_train_HR
+dataset.txt
